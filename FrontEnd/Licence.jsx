@@ -1,10 +1,10 @@
 const License = ({ lang }) => {
   const developers = [
     "Raqeeba Yasin",
-    "Nimra",
+    "Nimra Naeem",
     "Kainat Sohail",
     "Abdul Wahab",
-    "Tajammal",
+    "Tajammal Hussain",
     "Muhammad Mohsin"
   ];
 
