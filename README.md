@@ -65,12 +65,12 @@ A clean, accessible web interface designed for everyday citizens, not lawyers. C
 
 ## 🧠 Use Cases
 
-- **General Public** — Understand personal rights without needing a lawyer in the room
-- **Students & Researchers** — Access structured legal data for academic work
-- **Civil Society Organizations** — Ground advocacy in verified legal sources
-- **Legal Aid Platforms** — Power affordable legal guidance tools
-- **Civic Tech Developers** — Build the next generation of access-to-justice applications
-- **Journalists & Policy Analysts** — Verify government and institutional legal claims
+- **General Public** — Understand personal rights without needing a lawyer in the room.
+- **Students & Researchers** — Access structured legal data for academic work.
+- **Civil Society Organizations** — Ground advocacy in verified legal sources.
+- **Legal Aid Platforms** — Power affordable legal guidance tools.
+- **Civic Tech Developers** — Build the next generation of access-to-justice applications.
+- **Journalists & Policy Analysts** — Verify government and institutional legal claims.
 
 ---
 
