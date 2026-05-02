@@ -1,0 +1,1 @@
+# Qanoon-Sathi-HEC-Gen-AI-Hackathon
