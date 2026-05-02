@@ -1,68 +1,45 @@
-<div align="center">
+📜 Qanoon Sathi - FrontEnd
 
-# 🏛️ <span style="color:#A68A56">QANOON SATHI</span> 
-### **Bilingual Legal Rights Platform | Powered by Pak-Innovate**
+Qanoon Sathi is a bilingual legal rights platform developed by Pak-Innovate for the HEC Gen AI Hackathon. 
+The platform is designed to bridge the gap between complex legal frameworks and the common citizen in Pakistan
+by providing accessible, AI-powered legal information in both English and Urdu.
 
-[![Hackathon](https://img.shields.io/badge/HEC-Gen_AI_Hackathon-blue?style=for-the-badge)](https://github.com/Pak-Innovate)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+🚀 Tech Stack
 
----
+The frontend is built with a modern, high-performance stack to ensure a seamless and responsive user experience:
+Framework: React.js
+Styling: Tailwind CSS for a refined UI/UX
+Animations: Framer Motion for smooth, professional transitions
+State Management: React Hooks (useState, useEffect)
+Icons & Assets: Custom 3D animations and gradients
 
-<p align="left">
-<b style="font-size:20px; color:#A68A56;">Qanoon Sathi</b> is a specialized platform designed to bridge the gap between complex legal frameworks and the common citizen in Pakistan. By providing accessible, AI-powered legal information in both <b>English and Urdu</b>, we empower every Pakistani with knowledge of their rights.
-</p>
+📂 Page Structure
 
-</div>
+The application consists of several specialized pages to provide a comprehensive legal toolkit:
+Home Page: An elegant landing page featuring the core mission and a high-end visual design.
+Search & AI Portal: An enhanced bilingual search interface where users can ask legal questions and receive AI-generated answers in English or Urdu.
+License & Registration: Specialized domain logic for navigating licensing requirements in Pakistan.
+Emergency Services: Quick-access legal and emergency resources.
 
----
+✨ Key Features
 
-## 🚀 <span style="color:#A68A56">Tech Stack</span>
+Bilingual Intelligence: Real-time language switching between English and Urdu with automatic text alignment and font adjustments (Jameel Noori Nastaliq support).
+Smart Search History: A persistent "Recents" section that allows users to revisit their legal queries and answers without refreshing the session.
+FAQ Integration: Pre-loaded legal FAQs to guide first-time users on common rights and procedures.
+Fully Responsive Sidebar: A custom mobile navigation system designed for accessibility on all devices.
 
-Our frontend is built with a high-performance, professional architecture:
+🛠️ Getting Started
 
-*   **Framework:** `React.js` for dynamic rendering.
-*   **Styling:** `Tailwind CSS` for a refined, modern UI/UX.
-*   **Animations:** `Framer Motion` for smooth 3D transitions.
-*   **State Management:** Optimized `React Hooks` (useState, useEffect).
-*   **Typography:** Custom support for `Jameel Noori Nastaliq` (Urdu).
-
----
-
-## 📂 <span style="color:#A68A56">Page Structure</span>
-
-| Page | Description |
-| :--- | :--- |
-| **🏠 Home** | Elegant landing page showcasing our core mission. |
-| **🔍 AI Portal** | Bilingual search interface with real-time AI legal answers. |
-| **📜 Licensing** | Specialized logic for Pakistan's registration requirements. |
-| **🚨 Emergency** | Quick-access legal and emergency resources. |
-
----
-
-## ✨ <span style="color:#A68A56">Key Features</span>
-
-*   **🌐 Bilingual Intelligence:** Seamless real-time switching between English and Urdu with automatic alignment.
-*   **🧠 Smart History:** A persistent "Recents" section to revisit queries without page refreshes.
-*   **❓ FAQ Integration:** Guided paths for first-time users regarding common legal procedures.
-*   **📱 Responsive Design:** Fully accessible custom sidebar for all mobile and desktop devices.
-
----
-
-## 🛠️ <span style="color:#A68A56">Getting Started</span>
-
-Get the **Pak-Innovate** environment running locally in seconds:
-```bash
-# Enter the FrontEnd directory
+To run the frontend locally:
+1. Navigate to the directory:
 cd FrontEnd
-
-# Install professional dependencies
+2. Install dependencies:
 npm install
-
-# Launch the platform
+3. Launch the development server:
 npm start
 
-🏛️ Project Lead: Pak-Innovate
-Applying AI & NLP to solve real-world problems in Pakistan.
+🏛️ About Pak-Innovate
 
-Hackathon: HEC Gen AI 2026
+This project is an initiative by Pak-Innovate, a student-led team focused on applying Artificial Intelligence and Natural Language Processing (NLP) to solve practical, real-world problems in Pakistan.
+Project: Qanoon Sathi (HEC Gen AI Hackathon)
+Team: Pak-Innovate
