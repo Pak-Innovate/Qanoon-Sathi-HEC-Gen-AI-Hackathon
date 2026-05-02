@@ -1,1 +1,57 @@
+📜 Qanoon Sathi - FrontEnd
+Qanoon Sathi is a bilingual legal rights platform developed by Pak-Innovate for the HEC Gen AI Hackathon. The platform is designed to bridge the gap between complex legal frameworks and the common citizen in Pakistan by providing accessible, AI-powered legal information in both English and Urdu.
 
+🚀 Tech Stack
+The frontend is built with a modern, high-performance stack to ensure a seamless and responsive user experience:
+
+Framework: React.js
+
+Styling: Tailwind CSS for a refined UI/UX
+
+Animations: Framer Motion for smooth, professional transitions
+
+State Management: React Hooks (useState, useEffect)
+
+Icons & Assets: Custom 3D animations and gradients
+
+📂 Page Structure
+The application consists of several specialized pages to provide a comprehensive legal toolkit:
+
+Home Page: An elegant landing page featuring the core mission and a high-end visual design.
+
+Search & AI Portal: An enhanced bilingual search interface where users can ask legal questions and receive AI-generated answers in English or Urdu.
+
+License & Registration: Specialized domain logic for navigating licensing requirements in Pakistan.
+
+Emergency Services: Quick-access legal and emergency resources.
+
+✨ Key Features
+Bilingual Intelligence: Real-time language switching between English and Urdu with automatic text alignment and font adjustments (Jameel Noori Nastaliq support).
+
+Smart Search History: A persistent "Recents" section that allows users to revisit their legal queries and answers without refreshing the session.
+
+FAQ Integration: Pre-loaded legal FAQs to guide first-time users on common rights and procedures.
+
+Fully Responsive Sidebar: A custom mobile navigation system designed for accessibility on all devices.
+
+🛠️ Getting Started
+To run the frontend locally:
+
+Navigate to the directory:
+
+Bash
+cd FrontEnd
+Install dependencies:
+
+Bash
+npm install
+Launch the development server:
+
+Bash
+npm start
+
+🏛️ About Pak-Innovate
+This project is an initiative by Pak-Innovate, a student-led team focused on applying Artificial Intelligence and Natural Language Processing (NLP) to solve practical, real-world problems in Pakistan.
+
+
+Project: Qanoon Sathi (HEC Gen AI Hackathon)
