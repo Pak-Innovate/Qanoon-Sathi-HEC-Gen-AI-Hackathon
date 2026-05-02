@@ -1,0 +1,47 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Noto+Nastaliq+Urdu&display=swap');
+
+@layer base {
+  body {
+    @apply bg-[#F4F1EA] text-[#2C2621];
+  }
+}
+@keyframes colorGlow {
+  0%, 100% { color: #2C2621; }
+  50% { color: #A68A56; }
+}
+
+.animate-color-glow {
+  animation: colorGlow 4s ease-in-out infinite;
+}
+
+/* Custom Animation for the Gold Shine */
+@keyframes shine {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+@keyframes slideInUp {
+  from { transform: translateY(40px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.animate-in {
+  animation: slideInUp 0.8s ease-out forwards;
+}
+
+.animate-shine {
+  background: linear-gradient(90deg, #2C2621 0%, #A68A56 50%, #2C2621 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 3s linear infinite;
+}
+
+.font-law {
+  font-family: 'Cinzel', serif; /* A classic Roman-style font used for law/history */
+}
+
+.font-urdu {
+  font-family: 'Noto Nastaliq Urdu', serif;
+}
