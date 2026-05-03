@@ -29,12 +29,12 @@ Many people:
 - Educate individuals on their legal rights and protections under Pakistani law
 - Reduce vulnerability to scams, manipulation, and false legal claims
 - Convert dense legal material into accessible, structured formats
-- Build a foundation for AI-powered legal tools that prioritise accuracy and clarity
-- Democratise legal knowledge across all socioeconomic backgrounds
+- Build a foundation for AI-powered legal tools that prioritize accuracy and clarity
+- Democratize legal knowledge across all socioeconomic backgrounds
 
 ---
 
-## 🛠️ What We Built — Three Layers, One Mission
+## 🛠️ What We Built — Four Layers, One Mission
 
 ### 📂 Layer 1 — The Legal Dataset
 Authentic Pakistani legal documents — including the **Constitution of Pakistan** and foundational legal principles from the **Federal Ministry of Law and Justice** — extracted, cleaned, and structured for AI readiness.
@@ -102,6 +102,64 @@ qanoon-sathi-ai/
 
 ---
 
+## 🚀 Hackathon Context
+
+This project was developed as part of the **Gen AI Hackathon Cohort 3**, organized by the **Higher Education Commission Pakistan** and **Pak Angels**.
+
+It represents a practical application of Generative AI to one of Pakistan's most pressing civic challenges: legal misinformation and the inaccessibility of law.
+
+---
+
+## 🏢 Organizers
+
+This hackathon and the ecosystem that made QanoonSathi possible were built by the following organizations. We are grateful for their investment in Pakistan's AI future.
+
+| Organization | LinkedIn |
+|---|---|
+| **Pak Angels** | [linkedin.com/company/pakangels](https://www.linkedin.com/company/pakangels) |
+| **iCodeGuru** | [linkedin.com/company/icode-guru](https://www.linkedin.com/company/icode-guru/) |
+| **ASPIRE Pakistan** | [linkedin.com/company/aspirepk](https://www.linkedin.com/company/aspirepk/) |
+| **ULEF USA** | [linkedin.com/company/ulef-usa](https://www.linkedin.com/company/ulef-usa/) |
+| **HEC — Higher Education Commission Pakistan** | [hec.gov.pk](https://www.hec.gov.pk) |
+| **NCEAC — National Computing Education Accreditation Council** | [nceac.org](https://www.nceac.org) |
+
+---
+
+## 👨‍🏫 Trainers, Mentors & Leaders
+
+QanoonSathi AI was shaped by the guidance, expertise, and generosity of an exceptional cohort of mentors and trainers. This project stands on their shoulders.
+
+| Mentor / Trainer | LinkedIn |
+|---|---|
+| **Anwar Khan** | [linkedin.com/in/khanmx99](https://www.linkedin.com/in/khanmx99) |
+| **Dr. Zafar Shahid** | [linkedin.com/in/zafarshahid](https://www.linkedin.com/in/zafarshahid) |
+| **Muhammad Talha** | [linkedin.com/in/muhammmad-talha](https://www.linkedin.com/in/muhammmad-talha) |
+| **Asad Ullah Khan** | [linkedin.com/in/asad-ullah-824b8136a](https://www.linkedin.com/in/asad-ullah-824b8136a/) |
+| **Muhammad Ali** | [linkedin.com/in/engr-muhammad-ali-7b8a26262](https://www.linkedin.com/in/engr-muhammad-ali-7b8a26262) |
+| **Rubab Shahzadi** | [linkedin.com/in/rubab-shahzadi-195a4024b](https://www.linkedin.com/in/rubab-shahzadi-195a4024b) |
+| **Inam ul Rehman** | [linkedin.com/in/inamulrehman](https://www.linkedin.com/in/inamulrehman/) |
+| **Sikander Nawaz** | [linkedin.com/in/sikander-nawaz](https://www.linkedin.com/in/sikander-nawaz) |
+| **Ahsan Javed** | [linkedin.com/in/ahsanjaved56](https://www.linkedin.com/in/ahsanjaved56) |
+| **Muhammad Fiaz** | [linkedin.com/in/fiazbhk](https://www.linkedin.com/in/fiazbhk) |
+| **Muhammad Jawad** | [linkedin.com/in/mjawad17](https://www.linkedin.com/in/mjawad17) |
+| **Ahmed Faraz** | [linkedin.com/in/aahmedfaraz](https://www.linkedin.com/in/aahmedfaraz) |
+| **Muhammad Qasim** | [linkedin.com/in/muhammad-qasim-600875271](https://www.linkedin.com/in/muhammad-qasim-600875271) |
+| **Muhammad Ibrahim Laeeq** | [linkedin.com/in/ibrahimlaeeq](https://www.linkedin.com/in/ibrahimlaeeq) |
+| **Ghulam Murtaza** | [linkedin.com/in/ghulammurtaza-ai](https://www.linkedin.com/in/ghulammurtaza-ai/) |
+| **Umer Gul Kaleem** | [linkedin.com/in/umergulkaleem](https://www.linkedin.com/in/umergulkaleem/) |
+| **Mujib ur Rahman** | [linkedin.com/in/mujib-ur-rahman](https://www.linkedin.com/in/mujib-ur-rahman) |
+| **M Noor Baloch** | [linkedin.com/in/mnoorbaloch95](https://www.linkedin.com/in/mnoorbaloch95) |
+| **Abdul Rehman Shahzad** | [linkedin.com/in/abdulrehmanshahzad](https://www.linkedin.com/in/abdulrehmanshahzad/) |
+| **Bakht Ullah Jan** | [linkedin.com/in/bakhtullahjan](https://www.linkedin.com/in/bakhtullahjan) |
+| **Muhammad Haris Ahsan** | [linkedin.com/in/iamharisahsan](https://www.linkedin.com/in/iamharisahsan/) |
+| **Asma Zubair** | [linkedin.com/in/asma-zubair-6062b9315](https://www.linkedin.com/in/asma-zubair-6062b9315/) |
+| **Muhammad Jasim** | [linkedin.com/in/muhammadjasim1503](https://www.linkedin.com/in/muhammadjasim1503) |
+| **Warda Gull** | [linkedin.com/in/wardagull23](https://www.linkedin.com/in/wardagull23) |
+| **Hafsa Mahmood** | [linkedin.com/in/hafsa-mahmood](https://www.linkedin.com/in/hafsa-mahmood) |
+| **Muhammad Nameer Shah** | [linkedin.com/in/muhammad-nameer-shah](https://www.linkedin.com/in/muhammad-nameer-shah) |
+
+---
+
 ## 🌱 Vision — The Future We Are Building Toward
 
 > *A Pakistan where legal knowledge is not restricted to the privileged few — where every citizen can understand their rights without needing a lawyer in the room.*
@@ -118,7 +176,7 @@ We are working toward a future where:
 
 ## 🤝 Contributing — This Project Is Alive and Growing
 
-Contributions are welcome across all layers of the project. Whether you are a lawyer who can validate dataset coverage, a developer strengthening the API, a designer improving accessibility, or a researcher expanding legal document coverage, there is meaningful work to do.
+Contributions are welcome across all layers of the project. Whether you are a lawyer who can validate dataset coverage, a developer strengthening the API, a designer improving accessibility, or a researcher expanding legal document coverage — there is meaningful work to do.
 
 **Priority contribution areas:**
 
@@ -133,19 +191,11 @@ Please open an issue or submit a pull request to get started.
 
 ---
 
-## 🚀 Hackathon Context
-
-This project was developed as part of the **Gen AI Hackathon Cohort 3**, organised by the **Higher Education Commission Pakistan** and **Pak Angels**.
-
-It represents a practical application of Generative AI to one of Pakistan's most pressing civic challenges: legal misinformation and the inaccessibility of law.
-
----
-
 ## ⚠️ Disclaimer
 
 This project is intended for **educational and informational purposes only**. It does not constitute legal advice, and no reliance should be placed on it as a substitute for qualified legal counsel.
 
-For matters with legal consequences, always consult a licensed legal professional.
+For matters with legal consequence, always consult a licensed legal professional.
 
 ---
 
@@ -164,4 +214,3 @@ When people understand the law, they are harder to deceive. This project exists 
 ---
 
 *Developed for Gen AI Hackathon Cohort 3 — organized by Higher Education Commission Pakistan and Pak Angels.*
-
