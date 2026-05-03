@@ -53,13 +53,13 @@ const Hero = ({ t, lang, onCategoryClick }) => {
         
         {/* HEADER: Reduced margin-bottom to pull content up */}
         <div className="text-center mb-10">
-          <h2 className="text-5xl md:text-6xl font-black text-[#2C2621] mb-4 tracking-tight uppercase leading-tight">
+          <h2 className="text-5xl md:text-6xl font-black text-[#0f1f0e] mb-4 tracking-tight uppercase leading-tight">
             {renderTitle()}
           </h2>
           
           <div className="flex items-center justify-center gap-4">
             <div className="h-[2px] w-10 bg-[#A68A56]/40"></div>
-            <span className={`text-[#A68A56] font-black uppercase tracking-[0.2em] bg-white/40 px-4 py-1 rounded-full backdrop-blur-sm shadow-sm
+            <span className={`text-[#1d742e] font-black uppercase tracking-[0.2em] bg-white/40 px-4 py-1 rounded-full backdrop-blur-sm shadow-sm
               ${lang === 'ur' ? 'text-2xl font-urdu' : 'text-[14px]'}`}>
               {lang === 'ur' ? 'قانون کا انتخاب کریں' : 'Select Category'}
             </span>
