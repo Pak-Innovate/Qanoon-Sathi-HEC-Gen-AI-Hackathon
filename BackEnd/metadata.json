@@ -1,0 +1,6 @@
+{
+  "name": "Qaanoon Sathi",
+  "description": "An AI-powered legal assistant for Pakistani law, providing grounded information on Islamic law, harassment, inheritance, and more.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["AI-powered Search", "Urdu Language Support"]
+}

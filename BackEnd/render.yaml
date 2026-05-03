@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: qaanoon-sathi
+    env: node
+    plan: starter
+    buildCommand: npm install && npm run build && npm run build:server
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000
+      - key: GEMINI_API_KEY
+        scope: all
+      - key: GEMINI_API_KEY_2
+        scope: all
+      - key: GEMINI_API_KEY_3
+        scope: all
+      - key: SUPABASE_URL
+        scope: all
+      - key: SUPABASE_ANON_KEY
+        scope: all
+      - key: GROQ_API_KEY
+        scope: all
+      - key: HUGGINGFACE_API_KEY
+        scope: all

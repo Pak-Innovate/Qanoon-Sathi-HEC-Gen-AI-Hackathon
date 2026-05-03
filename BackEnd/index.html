@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QaanoonSathi | Pakistan Legal Intelligence</title>
+    <script>
+      // Emergency fix for "fetch has only a getter" error found in some environments
+      (function() {
+        try {
+          const originalFetch = window.fetch;
+          if (originalFetch) {
+            // Check if it's already read-only
+            const desc = Object.getOwnPropertyDescriptor(window, 'fetch');
+            if (desc && desc.get && !desc.set && !desc.writable && desc.configurable) {
+              console.log("🛠️ Repairing window.fetch descriptor...");
+              Object.defineProperty(window, 'fetch', {
+                value: originalFetch.bind(window),
+                writable: true,
+                configurable: true,
+                enumerable: true
+              });
+            }
+          }
+        } catch (e) {
+          console.warn("⚠️ Fetch repair failed:", e);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
