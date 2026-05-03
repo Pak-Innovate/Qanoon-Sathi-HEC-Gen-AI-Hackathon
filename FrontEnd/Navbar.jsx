@@ -15,11 +15,15 @@ const Navbar = ({ lang, setLang, t, setCurrentPage, userName, setUserName, onLog
   const closeSidebar = () => setIsSidebarOpen(false);
 
   return (
-    <div className="sticky top-0 z-50">
-      <nav className="bg-[#FDFBF7]/95 backdrop-blur-2xl">
+    /* 
+       FIX: Ensure the sticky container is restricted to the viewport width. 
+       'max-w-full' and 'overflow-x-hidden' prevent the navbar from widening the page.
+    */
+    <div className="sticky top-0 z-50 w-full max-w-full overflow-x-hidden">
+      <nav className="bg-[#FDFBF7]/95 backdrop-blur-2xl w-full">
         <div className="max-w-[1440px] mx-auto px-6 lg:px-10 h-20 lg:h-24 flex justify-between items-center" dir="ltr">
           
-          {/* LEFT: BRANDING - Full Green Theme */}
+          {/* LEFT: BRANDING */}
           <div className="flex items-center gap-4 cursor-pointer group z-50" onClick={() => { setCurrentPage('home'); closeSidebar(); }}>
             <div className="w-10 h-10 lg:w-11 lg:h-11 bg-[#065016] flex items-center justify-center rotate-45 group-hover:rotate-0 transition-all duration-500 shadow-[6px_6px_0px_0px_rgba(166,138,86,0.2)]">
               <span className="text-[#FDFBF7] -rotate-45 group-hover:rotate-0 transition-all font-bold text-xl">Q</span>
@@ -29,7 +33,7 @@ const Navbar = ({ lang, setLang, t, setCurrentPage, userName, setUserName, onLog
             </h1>
           </div>
 
-          {/* MIDDLE: DESKTOP NAVIGATION */}
+          {/* MIDDLE: NAVIGATION */}
           <div className="hidden lg:flex items-center gap-14 flex-[2] justify-center">
             <button onClick={() => setCurrentPage('search')} className={linkClass}>
               {lang === 'ur' ? 'تلاش' : 'Search'} <div className={underline}></div>
@@ -44,8 +48,6 @@ const Navbar = ({ lang, setLang, t, setCurrentPage, userName, setUserName, onLog
 
           {/* RIGHT: AUTH & TOGGLE */}
           <div className="flex items-center gap-4 lg:gap-8 flex-1 justify-end">
-            
-            {/* LANGUAGE TOGGLE: Blue for EN, Red for UR */}
             <div className="hidden sm:flex items-center bg-white rounded-full p-1 border-2 border-[#065016]/20 shadow-inner">
               <button 
                 onClick={() => setLang('en')} 
@@ -87,12 +89,10 @@ const Navbar = ({ lang, setLang, t, setCurrentPage, userName, setUserName, onLog
           </div>
         </div>
 
-        {/* MOBILE SLIDEBAR */}
+        {/* MOBILE SIDEBAR */}
         <div className={`fixed inset-0 transition-all duration-500 z-40 ${isSidebarOpen ? 'visible' : 'invisible'}`}>
           <div className={`absolute inset-0 bg-[#2C2621]/40 backdrop-blur-sm transition-opacity duration-500 ${isSidebarOpen ? 'opacity-100' : 'opacity-0'}`} onClick={closeSidebar}></div>
-          
           <div className={`absolute right-0 top-0 h-full w-[75%] bg-[#FDFBF7] shadow-2xl transition-transform duration-500 ease-out flex flex-col p-10 pt-32 ${isSidebarOpen ? 'translate-x-0' : 'translate-x-full'}`} dir={lang === 'ur' ? 'rtl' : 'ltr'}>
-            
             <button onClick={() => { setCurrentPage('search'); closeSidebar(); }} className={mobileLinkClass}>
               {lang === 'ur' ? 'تلاش' : 'Search'}
             </button>
@@ -102,14 +102,11 @@ const Navbar = ({ lang, setLang, t, setCurrentPage, userName, setUserName, onLog
             <button onClick={() => { setCurrentPage('emergency'); closeSidebar(); }} className={mobileLinkClass}>
               {t.emergency}
             </button>
-
             <div className="mt-auto space-y-6">
-              {/* Mobile Lang Toggle */}
               <div className="flex justify-center bg-white rounded-2xl p-2 border border-[#065016]/20">
                 <button onClick={() => setLang('en')} className={`flex-1 py-4 rounded-xl font-black transition-all ${lang === 'en' ? 'bg-blue-600 text-white shadow-md' : 'text-gray-400'}`}>EN</button>
                 <button onClick={() => setLang('ur')} className={`flex-1 py-4 rounded-xl font-urdu text-2xl font-black transition-all ${lang === 'ur' ? 'bg-red-600 text-white shadow-md' : 'text-gray-400'}`}>اردو</button>
               </div>
-
               {userName ? (
                 <button onClick={() => { setUserName(''); closeSidebar(); }} className="w-full py-5 bg-[#2C2621] text-white rounded-2xl font-black uppercase shadow-xl">
                   {t.logout} ({userName})
@@ -123,7 +120,10 @@ const Navbar = ({ lang, setLang, t, setCurrentPage, userName, setUserName, onLog
           </div>
         </div>
       </nav>
-      <div className="h-[2px] w-full bg-gradient-to-r from-transparent via-[#065016] to-transparent opacity-50"></div>
+      {/* 
+         BOTTOM GRADIENT BORDER: Restricted with max-w-full to prevent bleeding.
+      */}
+      <div className="h-[2px] w-full max-w-full bg-gradient-to-r from-transparent via-[#065016] to-transparent opacity-50"></div>
     </div>
   );
 };
