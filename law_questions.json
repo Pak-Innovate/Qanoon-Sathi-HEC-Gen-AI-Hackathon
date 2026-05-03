@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "Under the Indian Succession Act 1925, what domicile does a woman acquire upon marriage?",
+    "answer": "A woman acquires the domicile of her husband upon marriage.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Domicile"
+  },
+  {
+    "id": 2,
+    "question": "According to the Indian Succession Act 1925, how is succession to moveable property in British India determined in the absence of proof of domicile elsewhere?",
+    "answer": "Succession to moveable property in British India is determined by the law of British India in the absence of proof of domicile elsewhere.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Succession"
+  },
+  {
+    "id": 3,
+    "question": "Under the Indian Succession Act 1925, what happens when the last of two inconsistent clauses exist in a will?",
+    "answer": "The last of two inconsistent clauses prevails.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Wills"
+  },
+  {
+    "id": 4,
+    "question": "What is 'ademption' under the Indian Succession Act 1925?",
+    "answer": "Ademption occurs when the subject matter of a bequest has been withdrawn from the operation of the will (e.g., sold, given away, or converted to a different kind of property) before the testator's death, rendering the legacy void.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Bequests"
+  },
+  {
+    "id": 5,
+    "question": "Under the Indian Succession Act 1925, where does the property of an intestate who leaves no lineal descendants go if their father is still living?",
+    "answer": "The property goes to the intestate's father.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Intestate Succession"
+  },
+  {
+    "id": 6,
+    "question": "Under the Indian Succession Act 1925, what rule applies when a testator's will contains a bequest to the 'heirs' of a particular person without qualifying terms?",
+    "answer": "The bequest goes to those who would be entitled to the property of that person under the law applicable to that person's succession.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Wills"
+  },
+  {
+    "id": 7,
+    "question": "Under the Indian Succession Act 1925, can a minor acquire a new domicile?",
+    "answer": "Yes, a minor can acquire a new domicile under the provisions of the Act.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Domicile"
+  },
+  {
+    "id": 8,
+    "question": "According to the Indian Succession Act 1925, what is a demonstrative legacy?",
+    "answer": "A demonstrative legacy is one where a specific fund is pointed out for payment, but it is not adeemed if that fund fails — the legatee is still entitled to payment from the general estate.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Bequests"
+  },
+  {
+    "id": 9,
+    "question": "Under the Indian Succession Act 1925, what interests or powers are acquired or lost by marriage?",
+    "answer": "No interests or powers are acquired or lost by marriage under Part III of the Act.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Marriage"
+  },
+  {
+    "id": 10,
+    "question": "Under the Indian Succession Act 1925, what is the rule when a will is void for uncertainty?",
+    "answer": "A will or bequest that is void for uncertainty cannot take effect.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Wills"
+  },
+  {
+    "id": 11,
+    "question": "When was the Constitution of the Islamic Republic of Pakistan enacted?",
+    "answer": "The Constitution was enacted on the 10th of April, 1973.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Constitutional History"
+  },
+  {
+    "id": 12,
+    "question": "What is the state religion of Pakistan according to the Constitution of 1973?",
+    "answer": "Islam is the state religion of Pakistan.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Fundamental Principles"
+  },
+  {
+    "id": 13,
+    "question": "Under the Constitution of Pakistan 1973, what constitutes high treason?",
+    "answer": "Under Article 6, any person who abrogates, subverts, or suspends the Constitution by use of force or show of force or by other unconstitutional means commits high treason.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "High Treason"
+  },
+  {
+    "id": 14,
+    "question": "What power does the President of Pakistan have under Article 45 of the Constitution?",
+    "answer": "The President has the power to grant pardon, reprieve, respite, remission of punishment, or suspension or commutation of any sentence passed by any court.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Presidential Powers"
+  },
+  {
+    "id": 15,
+    "question": "Under the Constitution of Pakistan 1973, how long is the term of office of the President?",
+    "answer": "The term of office of the President is set out under Article 44 of the Constitution.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "President"
+  },
+  {
+    "id": 16,
+    "question": "Under the Constitution of Pakistan 1973, what is the procedure for a vote of no-confidence against the Prime Minister?",
+    "answer": "A vote of no-confidence against the Prime Minister is governed by Article 96 of the Constitution.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Parliament"
+  },
+  {
+    "id": 17,
+    "question": "Under the Constitution of Pakistan 1973, who acts as President when the office is vacant or the President is unable to perform functions?",
+    "answer": "The Chairman or Speaker acts as, or performs the functions of, the President under Article 49.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "President"
+  },
+  {
+    "id": 18,
+    "question": "Under the Constitution of Pakistan 1973, how are the reports of the Auditor-General submitted?",
+    "answer": "The reports of the Auditor-General relating to the accounts of the Federation are submitted to the President.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Finance and Audit"
+  },
+  {
+    "id": 19,
+    "question": "Under what conditions can the Auditor-General be removed from office under the Constitution of Pakistan 1973?",
+    "answer": "The Auditor-General shall not be removed from office except in the like manner and on the like grounds as a Judge of the Supreme Court.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Finance and Audit"
+  },
+  {
+    "id": 20,
+    "question": "Under the Constitution of Pakistan 1973, what does Article 38 concern?",
+    "answer": "Article 38 concerns the promotion of social and economic well-being of the people.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Principles of Policy"
+  },
+  {
+    "id": 21,
+    "question": "Under the Pakistan Penal Code, what is the extent of its territorial operation?",
+    "answer": "The Pakistan Penal Code applies to offences committed within Pakistan. It also provides for punishment of offences committed beyond Pakistan that by law may be tried within Pakistan.",
+    "source": "Pakistan Penal Code",
+    "topic": "Jurisdiction"
+  },
+  {
+    "id": 22,
+    "question": "Under the Pakistan Penal Code, what is the legal definition of 'wrongful gain'?",
+    "answer": "'Wrongful gain' means gain by unlawful means of property to which the person gaining is not legally entitled.",
+    "source": "Pakistan Penal Code",
+    "topic": "General Explanations"
+  },
+  {
+    "id": 23,
+    "question": "Under the Pakistan Penal Code, what constitutes a 'criminal conspiracy' under Section 120A?",
+    "answer": "A criminal conspiracy is when two or more persons agree to do or cause to be done an illegal act or a legal act by illegal means.",
+    "source": "Pakistan Penal Code",
+    "topic": "Criminal Conspiracy"
+  },
+  {
+    "id": 24,
+    "question": "Under the Pakistan Penal Code, what is the minimum age below which a child's act is not an offence?",
+    "answer": "The act of a child under ten years of age is not an offence under the Pakistan Penal Code.",
+    "source": "Pakistan Penal Code",
+    "topic": "General Exceptions"
+  },
+  {
+    "id": 25,
+    "question": "Under the Pakistan Penal Code, what is the punishment for waging war against Pakistan?",
+    "answer": "Waging or attempting to wage war against Pakistan is punishable under Section 121 of the Pakistan Penal Code.",
+    "source": "Pakistan Penal Code",
+    "topic": "Offences Against the State"
+  },
+  {
+    "id": 26,
+    "question": "Under the Pakistan Penal Code, what does Section 34 deal with?",
+    "answer": "Section 34 deals with acts done by several persons in furtherance of a common intention.",
+    "source": "Pakistan Penal Code",
+    "topic": "General Explanations"
+  },
+  {
+    "id": 27,
+    "question": "Under the Pakistan Penal Code, what is the punishment for counterfeiting a Government stamp?",
+    "answer": "Whoever counterfeits a Government revenue stamp shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "source": "Pakistan Penal Code",
+    "topic": "Counterfeiting"
+  },
+  {
+    "id": 28,
+    "question": "Under the Pakistan Penal Code, what is meant by 'dishonestly'?",
+    "answer": "'Dishonestly' means doing anything with the intention of causing wrongful gain to one person or wrongful loss to another.",
+    "source": "Pakistan Penal Code",
+    "topic": "General Explanations"
+  },
+  {
+    "id": 29,
+    "question": "Under the Pakistan Penal Code, when is an act done in good faith for the benefit of a person without their consent excused?",
+    "answer": "Under Section 92, an act done in good faith for the benefit of a person without their consent is excused if it is not intended to cause death or grievous hurt and the person is incapable of giving consent.",
+    "source": "Pakistan Penal Code",
+    "topic": "General Exceptions"
+  },
+  {
+    "id": 30,
+    "question": "Under the Pakistan Penal Code, what is the right of private defence?",
+    "answer": "Section 96 provides that things done in private defence are not offences. Every person has the right to defend their own body and the body of any other person against any offence affecting the human body.",
+    "source": "Pakistan Penal Code",
+    "topic": "Private Defence"
+  },
+  {
+    "id": 31,
+    "question": "Under the Pakistan Penal Code, what amounts to abetment of a commission of an offence by the public or more than ten persons?",
+    "answer": "Under Section 117, abetment of commission of an offence by the public or by more than ten persons constitutes a specific aggravated form of abetment.",
+    "source": "Pakistan Penal Code",
+    "topic": "Abetment"
+  },
+  {
+    "id": 32,
+    "question": "Under the Pakistan Penal Code, what is passing a counterfeit coin?",
+    "answer": "Passing a counterfeit coin includes delivering or tendering a coin that one knows to have been subjected to operations listed in sections 246–249, even if one was unaware at the time of receiving it. It is punishable with up to two years' imprisonment or a fine up to ten times the coin's value.",
+    "source": "Pakistan Penal Code",
+    "topic": "Counterfeiting"
+  },
+  {
+    "id": 33,
+    "question": "What is the full title of the Act passed as Act No. X of 2026?",
+    "answer": "The Domestic Violence (Prevention and Protection) Act, 2026.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "General"
+  },
+  {
+    "id": 34,
+    "question": "Who does the Domestic Violence (Prevention and Protection) Act 2026 protect?",
+    "answer": "The Act protects women, men, transgender persons, children, and any vulnerable person against domestic violence.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Scope of Protection"
+  },
+  {
+    "id": 35,
+    "question": "Under the Domestic Violence (Prevention and Protection) Act 2026, what is the punishment for domestic violence not falling under the Penal Code?",
+    "answer": "The act of domestic violence is punishable with simple imprisonment of a maximum of three years and not less than six months, and a fine of one hundred thousand rupees with a minimum of twenty thousand rupees as compensation to the aggrieved person.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Punishment"
+  },
+  {
+    "id": 36,
+    "question": "Under the Domestic Violence (Prevention and Protection) Act 2026, what is the punishment for aiding or abetting domestic violence?",
+    "answer": "Whoever aids or abets the commission of domestic violence shall be punished with the same punishment as the principal offender.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Punishment"
+  },
+  {
+    "id": 37,
+    "question": "Under the Domestic Violence (Prevention and Protection) Act 2026, within how many days must the court fix the first date of hearing after receiving a petition?",
+    "answer": "The court shall fix the first date of hearing within seven days from the date of the petition.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Procedure"
+  },
+  {
+    "id": 38,
+    "question": "Who is a 'respondent' under the Domestic Violence (Prevention and Protection) Act 2026?",
+    "answer": "A respondent is a person who is, or has been, in a domestic relationship with the aggrieved person and against whom relief has been sought under the Act.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Definitions"
+  },
+  {
+    "id": 39,
+    "question": "What is a 'Protection Order' under the Domestic Violence (Prevention and Protection) Act 2026?",
+    "answer": "A Protection Order is an order granted in terms of Section 8 of the Act.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Definitions"
+  },
+  {
+    "id": 40,
+    "question": "What monetary relief can be granted under the Domestic Violence (Prevention and Protection) Act 2026?",
+    "answer": "Monetary relief may include compensation for suffering due to economic abuse, loss of earnings, medical expenses, loss from destruction or removal of property, and maintenance for the aggrieved person and children.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Relief"
+  },
+  {
+    "id": 41,
+    "question": "What is a 'vulnerable person' as defined under the Domestic Violence (Prevention and Protection) Act 2026?",
+    "answer": "A vulnerable person is a person who is vulnerable due to old age, mental illness, or physical, learning, psychosocial or other disability, or for any other special reason.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Definitions"
+  },
+  {
+    "id": 42,
+    "question": "Under the Domestic Violence (Prevention and Protection) Act 2026, what happens if the respondent fails to pay the monetary relief ordered?",
+    "answer": "The court may direct the respondent's employer or debtor to directly pay the aggrieved person or deposit a portion of the wages, salaries, or debt with the court.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Enforcement"
+  },
+  {
+    "id": 43,
+    "question": "What does 'dowry' mean under the Dowry and Bridal Gifts Restriction Act 1976?",
+    "answer": "Dowry means any property given before, at, or after the marriage, either directly or indirectly, to the bride by her parents in connection with the marriage, but it does not include property which the bride may inherit under the laws of inheritance and succession applicable to her.",
+    "source": "The Dowry and Bridal Gifts Restriction Act 1976",
+    "topic": "Definitions"
+  },
+  {
+    "id": 44,
+    "question": "What does 'bridal gift' mean under the Dowry and Bridal Gifts Restriction Act 1976?",
+    "answer": "A bridal gift means any property given as a gift before, at, or after the marriage, either directly or indirectly, by the bridegroom or his parents to the bride in connection with the marriage, but does not include Mehr.",
+    "source": "The Dowry and Bridal Gifts Restriction Act 1976",
+    "topic": "Definitions"
+  },
+  {
+    "id": 45,
+    "question": "Under the Dowry and Bridal Gifts Restriction Act 1976, in whom does all property given as dowry or bridal gifts vest?",
+    "answer": "All property given as dowry or bridal gifts and all property given to the bride as a present shall vest absolutely in the bride.",
+    "source": "The Dowry and Bridal Gifts Restriction Act 1976",
+    "topic": "Property Rights"
+  },
+  {
+    "id": 46,
+    "question": "What is the maximum total expenditure on a marriage allowed under the Dowry and Bridal Gifts Restriction Act 1976?",
+    "answer": "The total expenditure on a marriage (excluding dowry, bridal gifts, and presents, but including mendhi, barat, and valima expenses) shall not exceed two thousand and five hundred rupees.",
+    "source": "The Dowry and Bridal Gifts Restriction Act 1976",
+    "topic": "Marriage Expenditure"
+  },
+  {
+    "id": 47,
+    "question": "What obligation does the Dowry and Bridal Gifts Restriction Act 1976 impose on parents at the time of rukhsati?",
+    "answer": "The parents of each party to a marriage must display all items of dowry, bridal gifts, and presents given or received in connection with the marriage so as to be visible to persons attending the rukhsati.",
+    "source": "The Dowry and Bridal Gifts Restriction Act 1976",
+    "topic": "Display Requirements"
+  },
+  {
+    "id": 48,
+    "question": "What does the term 'marriage' include under the Dowry and Bridal Gifts Restriction Act 1976?",
+    "answer": "The term 'marriage' includes betrothal, nikah, and rukhsati.",
+    "source": "The Dowry and Bridal Gifts Restriction Act 1976",
+    "topic": "Definitions"
+  },
+  {
+    "id": 49,
+    "question": "Under the Dowry and Bridal Gifts Restriction Act 1976, what is a 'present'?",
+    "answer": "A 'present' means a gift of any property, not being a bridal gift or dowry, given before, at, or after the marriage, either directly or indirectly, to either party to a marriage in connection with the marriage or to the relatives of the bride or bridegroom, but does not include neundra and salaami.",
+    "source": "The Dowry and Bridal Gifts Restriction Act 1976",
+    "topic": "Definitions"
+  },
+  {
+    "id": 50,
+    "question": "Under the Dowry and Bridal Gifts Restriction Act 1976, what obligation is placed on parents regarding lists of dowry?",
+    "answer": "The parents of each party to a marriage must furnish to the Registrar lists of dowry, bridal gifts, and presents given or received in connection with the marriage.",
+    "source": "The Dowry and Bridal Gifts Restriction Act 1976",
+    "topic": "Registration"
+  },
+  {
+    "id": 51,
+    "question": "What is the full title of Act No. VI of 2020?",
+    "answer": "The Letters of Administration and Succession Certificates Act, 2020.",
+    "source": "The Letters of Administration and Succession Certificates Act 2020",
+    "topic": "General"
+  },
+  {
+    "id": 52,
+    "question": "To what territorial extent does the Letters of Administration and Succession Certificates Act 2020 apply?",
+    "answer": "It extends to the whole of Islamabad Capital Territory.",
+    "source": "The Letters of Administration and Succession Certificates Act 2020",
+    "topic": "Jurisdiction"
+  },
+  {
+    "id": 53,
+    "question": "What is the purpose of the Letters of Administration and Succession Certificates Act 2020?",
+    "answer": "The Act provides for an efficacious and speedy mechanism for the issuance of Letters of Administration and Succession Certificates, aimed at curtailing fraud and forgery.",
+    "source": "The Letters of Administration and Succession Certificates Act 2020",
+    "topic": "Purpose"
+  },
+  {
+    "id": 54,
+    "question": "Under the Letters of Administration and Succession Certificates Act 2020, what happens if there is a factual controversy among legal heirs?",
+    "answer": "The Succession Facilitation Unit shall decline to assess the application and direct the legal heirs to file afresh before the appropriate forum in accordance with the Succession Act, 1925, or any other applicable law.",
+    "source": "The Letters of Administration and Succession Certificates Act 2020",
+    "topic": "Procedure"
+  },
+  {
+    "id": 55,
+    "question": "Under the Letters of Administration and Succession Certificates Act 2020, what legal effect do the issued Letters of Administration or Succession Certificates have?",
+    "answer": "The Letters of Administration or Succession Certificates issued under this Act have the same effect as if issued under the Succession Act, 1925.",
+    "source": "The Letters of Administration and Succession Certificates Act 2020",
+    "topic": "Legal Effect"
+  },
+  {
+    "id": 56,
+    "question": "Under the Letters of Administration and Succession Certificates Act 2020, where are the charges received by the Authority credited?",
+    "answer": "The charges or sums received by the Authority shall be credited to the NADRA Fund.",
+    "source": "The Letters of Administration and Succession Certificates Act 2020",
+    "topic": "Finance"
+  },
+  {
+    "id": 57,
+    "question": "Under the Letters of Administration and Succession Certificates Act 2020, who may apply for Letters of Administration or Succession Certificates?",
+    "answer": "The legal heirs of the deceased may apply. Legal heirs may also authorize another person in the prescribed form to apply on their behalf.",
+    "source": "The Letters of Administration and Succession Certificates Act 2020",
+    "topic": "Application"
+  },
+  {
+    "id": 58,
+    "question": "Under the Letters of Administration and Succession Certificates Act 2020, how are the shares of heirs determined in the issued certificate?",
+    "answer": "The Letters of Administration or Succession Certificates are issued in favour of all legal heirs with details of their respective shares as provided in the personal law of such legal heirs.",
+    "source": "The Letters of Administration and Succession Certificates Act 2020",
+    "topic": "Succession"
+  },
+  {
+    "id": 59,
+    "question": "Under the Muslim Family Laws Ordinance 1961, to whom does the Ordinance apply?",
+    "answer": "The Ordinance extends to the whole of Pakistan and applies to all Muslim citizens of Pakistan, wherever they may be.",
+    "source": "The Muslim Family Laws Ordinance 1961",
+    "topic": "Scope and Application"
+  },
+  {
+    "id": 60,
+    "question": "What is an 'Arbitration Council' under the Muslim Family Laws Ordinance 1961?",
+    "answer": "An Arbitration Council is a body consisting of the Chairman of the Union Council and a representative of each of the parties to the matter in question.",
+    "source": "The Muslim Family Laws Ordinance 1961",
+    "topic": "Definitions"
+  },
+  {
+    "id": 61,
+    "question": "Under the Muslim Family Laws Ordinance 1961, what is the procedure for a man who wishes to divorce his wife (talaq)?",
+    "answer": "A man who wishes to divorce his wife must give notice of talaq in writing. The talaq shall not be effective until the expiry of ninety days from the date of such notice.",
+    "source": "The Muslim Family Laws Ordinance 1961",
+    "topic": "Talaq"
+  },
+  {
+    "id": 62,
+    "question": "Under the Muslim Family Laws Ordinance 1961, what is the penalty for contracting a second marriage without permission of the Arbitration Council?",
+    "answer": "Any man who contracts another marriage without permission of the Arbitration Council shall be punishable with simple imprisonment which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+    "source": "The Muslim Family Laws Ordinance 1961",
+    "topic": "Polygamy"
+  },
+  {
+    "id": 63,
+    "question": "Under the Muslim Family Laws Ordinance 1961, when does talaq not become effective if the wife is pregnant?",
+    "answer": "If the wife is pregnant at the time of talaq, the talaq shall not be effective until the period mentioned — it cannot take effect during pregnancy.",
+    "source": "The Muslim Family Laws Ordinance 1961",
+    "topic": "Talaq"
+  },
+  {
+    "id": 64,
+    "question": "Under the Muslim Family Laws Ordinance 1961, what is the rule regarding succession where a son or daughter of the deceased has predeceased them?",
+    "answer": "Under Section 4, in the event of the death of any son or daughter of the intestate before the intestate, the children of such son or daughter shall per stirpes receive a share equal to the share which their parent would have received.",
+    "source": "The Muslim Family Laws Ordinance 1961",
+    "topic": "Succession"
+  },
+  {
+    "id": 65,
+    "question": "Under the Muslim Family Laws Ordinance 1961, where must every marriage not solemnized by a Nikah Registrar be reported?",
+    "answer": "Every marriage not solemnized by a Nikah Registrar must be reported to the Nikah Registrar for the purpose of registration under the Ordinance.",
+    "source": "The Muslim Family Laws Ordinance 1961",
+    "topic": "Marriage Registration"
+  },
+  {
+    "id": 66,
+    "question": "Under the Muslim Family Laws Ordinance 1961, can any person inspect the record preserved by the Union Council?",
+    "answer": "Yes, any person may inspect at the office of the Union Council the record preserved under the relevant section, or obtain a copy of any entry therein, on payment of the prescribed fee.",
+    "source": "The Muslim Family Laws Ordinance 1961",
+    "topic": "Records"
+  },
+  {
+    "id": 67,
+    "question": "What is the purpose of the Protection Against Harassment of Women at the Workplace Act 2010?",
+    "answer": "The Act makes provisions for the protection of women from harassment at the workplace, recognizing their constitutional right to dignity.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Purpose"
+  },
+  {
+    "id": 68,
+    "question": "How is 'harassment' defined under the Protection Against Harassment of Women at the Workplace Act 2010?",
+    "answer": "Harassment means any unwelcome sexual advance, request for sexual favors, or other verbal or written communication or physical conduct of a sexual nature or sexually demeaning attitudes, causing interference with work performance or creating an intimidating, hostile, or offensive work environment, or the attempt to punish the complainant for refusal to comply with such a request or making it a condition for employment.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Definitions"
+  },
+  {
+    "id": 69,
+    "question": "Under the Protection Against Harassment of Women at the Workplace Act 2010, within how many days of receiving a written complaint must the Inquiry Committee communicate charges to the accused?",
+    "answer": "Within three days of receipt of a written complaint, the Inquiry Committee shall communicate to the accused the charges and statement of allegations leveled against them.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Inquiry Procedure"
+  },
+  {
+    "id": 70,
+    "question": "Under the Protection Against Harassment of Women at the Workplace Act 2010, how many days does the accused have to submit a written defense after charges are communicated?",
+    "answer": "The accused has seven days from the day the charge is communicated to submit a written defense.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Inquiry Procedure"
+  },
+  {
+    "id": 71,
+    "question": "Under the Protection Against Harassment of Women at the Workplace Act 2010, what are the powers of the Inquiry Committee?",
+    "answer": "The Inquiry Committee has the power to summon and enforce attendance of any person and examine them on oath; require the discovery and production of any document; receive evidence on affidavits; and record evidence.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Inquiry Powers"
+  },
+  {
+    "id": 72,
+    "question": "Under the Protection Against Harassment of Women at the Workplace Act 2010, what happens if the complainant is in trauma?",
+    "answer": "The organization will arrange for psycho-social counseling or medical treatment and for additional medical leave for the complainant.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Victim Support"
+  },
+  {
+    "id": 73,
+    "question": "Under the Protection Against Harassment of Women at the Workplace Act 2010, who is covered as an 'employee' or person subject to the Act?",
+    "answer": "The Act covers employees and also agents or office bearers concerned with management, contractors procuring labour or services, and office bearers of federal, provincial, or local authority departments in managerial, secretarial, or directional cadres.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Scope"
+  },
+  {
+    "id": 74,
+    "question": "Under the Protection Against Harassment of Women at the Workplace Act 2010, what is an 'Inquiry Committee'?",
+    "answer": "An Inquiry Committee is the committee established under sub-section (1) of section 3 of the Act to inquire into complaints of harassment.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Definitions"
+  },
+  {
+    "id": 75,
+    "question": "Under the Protection Against Harassment of Women at the Workplace Act 2010, can the organization offer compensation to the complainant?",
+    "answer": "Yes, the organization may offer compensation to the complainant in case of loss of salary or other damages.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Compensation"
+  },
+  {
+    "id": 76,
+    "question": "Under the West Pakistan Family Courts Act 1964, what is the purpose of establishing Family Courts?",
+    "answer": "The purpose is to make provision for the establishment of Family Courts for the expeditious settlement and disposal of disputes relating to marriage and family affairs.",
+    "source": "The West Pakistan Family Courts Act 1964",
+    "topic": "Purpose"
+  },
+  {
+    "id": 77,
+    "question": "Under the West Pakistan Family Courts Act 1964, how must every suit before a Family Court be instituted?",
+    "answer": "Every suit before a Family Court shall be instituted by the presentation of a plaint or in such manner and in such Court as may be prescribed.",
+    "source": "The West Pakistan Family Courts Act 1964",
+    "topic": "Procedure"
+  },
+  {
+    "id": 78,
+    "question": "Under the West Pakistan Family Courts Act 1964, what must the plaint contain?",
+    "answer": "The plaint shall contain all facts relating to the dispute and a Schedule giving the number of witnesses intended to be produced, their names and addresses, and a brief summary of the facts to which they would depose.",
+    "source": "The West Pakistan Family Courts Act 1964",
+    "topic": "Procedure"
+  },
+  {
+    "id": 79,
+    "question": "Under the West Pakistan Family Courts Act 1964, within how many days of the presentation of the plaint must the plaintiff send a copy to each defendant?",
+    "answer": "Within three days of the presentation of the plaint to a Family Court, the plaintiff shall send to each defendant by registered post a copy of the plaint.",
+    "source": "The West Pakistan Family Courts Act 1964",
+    "topic": "Procedure"
+  },
+  {
+    "id": 80,
+    "question": "What happens at the pre-trial stage under the West Pakistan Family Courts Act 1964?",
+    "answer": "At the pre-trial, the Court shall ascertain the points at issue between the parties and attempt to effect a compromise or reconciliation. If no compromise is possible, the Court shall frame the issues and fix a date for evidence.",
+    "source": "The West Pakistan Family Courts Act 1964",
+    "topic": "Pre-Trial"
+  },
+  {
+    "id": 81,
+    "question": "Under the West Pakistan Family Courts Act 1964, under what conditions can the Family Court issue a summons for a witness to appear?",
+    "answer": "The Court shall not issue any summons for the appearance of any witness unless, within three days of the framing of issues, a party intimates the Court that it desires a witness to be summoned and the Court is satisfied that it is not possible or practicable for that party to produce the witness.",
+    "source": "The West Pakistan Family Courts Act 1964",
+    "topic": "Evidence"
+  },
+  {
+    "id": 82,
+    "question": "Under the West Pakistan Family Courts Act 1964, how must witnesses give their evidence?",
+    "answer": "Witnesses shall give their evidence in their own words and no question shall be put to them by any party or counsel by way of examination in chief.",
+    "source": "The West Pakistan Family Courts Act 1964",
+    "topic": "Evidence"
+  },
+  {
+    "id": 83,
+    "question": "Under the Indian Succession Act 1925, what is the effect of words of limitation in a bequest to a person?",
+    "answer": "The effect of words of limitation in a bequest is governed by the construction rules in the Act — words describing the subject refer to property answering the description at the testator's death.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Bequests"
+  },
+  {
+    "id": 84,
+    "question": "Under the Constitution of Pakistan 1973, what is the role of the Attorney-General?",
+    "answer": "Under Article 100, the Attorney-General for Pakistan is the chief law officer of the Federal Government.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Federal Government"
+  },
+  {
+    "id": 85,
+    "question": "Under the Constitution of Pakistan 1973, what does Article 36 provide?",
+    "answer": "Article 36 provides for the protection of minorities.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Principles of Policy"
+  },
+  {
+    "id": 86,
+    "question": "Under the Pakistan Penal Code, what is meant by 'fraudulently'?",
+    "answer": "'Fraudulently' means doing a thing with intent to defraud, but not otherwise.",
+    "source": "Pakistan Penal Code",
+    "topic": "General Explanations"
+  },
+  {
+    "id": 87,
+    "question": "Under the Pakistan Penal Code, what is a 'valuable security'?",
+    "answer": "A 'valuable security' is a document which is, or purports to be, a document whereby any legal right is created, extended, transferred, restricted, extinguished, or released, or whereby any person acknowledges that they lie under legal liability or have not a certain legal right.",
+    "source": "Pakistan Penal Code",
+    "topic": "General Explanations"
+  },
+  {
+    "id": 88,
+    "question": "Under the Pakistan Penal Code, what is Section 123A about?",
+    "answer": "Section 123A deals with condemnation of the creation of the State and advocacy of abolition of its sovereignty.",
+    "source": "Pakistan Penal Code",
+    "topic": "Offences Against the State"
+  },
+  {
+    "id": 89,
+    "question": "Under the Domestic Violence (Prevention and Protection) Act 2026, what is a 'service provider'?",
+    "answer": "A service provider is any government facility or registered voluntary organization established for the protection of aggrieved persons, providing legal, medical, financial, or other assistance, including shelter homes.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Definitions"
+  },
+  {
+    "id": 90,
+    "question": "Under the Domestic Violence (Prevention and Protection) Act 2026, what is a 'Protection Committee'?",
+    "answer": "A Protection Committee is a committee constituted under Section 15 of the Act.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Definitions"
+  },
+  {
+    "id": 91,
+    "question": "Under the Domestic Violence (Prevention and Protection) Act 2026, who designates the Protection Officer?",
+    "answer": "The Protection Officer is designated by the Ministry of Human Rights under Section 19 of the Act.",
+    "source": "The Domestic Violence Prevention and Protection Act 2026",
+    "topic": "Enforcement Structure"
+  },
+  {
+    "id": 92,
+    "question": "Under the Dowry and Bridal Gifts Restriction Act 1976, who are 'parents' as defined in the Act?",
+    "answer": "'Parents' includes the guardian of a party to a marriage and any person who provides dowry or bridal gifts, and in the case of a party to a marriage who has no parent or whose marriage is solemnized in circumstances where no parent is present, such party themselves.",
+    "source": "The Dowry and Bridal Gifts Restriction Act 1976",
+    "topic": "Definitions"
+  },
+  {
+    "id": 93,
+    "question": "Under the Muslim Family Laws Ordinance 1961, what is the role of the Arbitration Council when a man wishes to contract another marriage?",
+    "answer": "The Arbitration Council is responsible for granting or refusing permission to the man for contracting another marriage. A man must obtain its permission in writing before contracting a subsequent marriage.",
+    "source": "The Muslim Family Laws Ordinance 1961",
+    "topic": "Polygamy"
+  },
+  {
+    "id": 94,
+    "question": "Under the Protection Against Harassment of Women at the Workplace Act 2010, what must the Inquiry Committee do after submitting recommendations?",
+    "answer": "The Inquiry Committee shall meet on a regular basis and monitor the situation regularly until they are satisfied that their recommendations, subject to any decision of the Competent Authority or Appellate Authority, have been implemented.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Inquiry Procedure"
+  },
+  {
+    "id": 95,
+    "question": "Under the West Pakistan Family Courts Act 1964, can parties call additional witnesses beyond those listed in the plaint?",
+    "answer": "Yes, the parties may call any witness at any later stage with the permission of the Court, if the Court considers such evidence expedient in the interests of justice.",
+    "source": "The West Pakistan Family Courts Act 1964",
+    "topic": "Evidence"
+  },
+  {
+    "id": 96,
+    "question": "Under the Indian Succession Act 1925, where the intestate has left neither lineal descendants nor parent nor brother nor sister, how is the property distributed?",
+    "answer": "The property is distributed among those who are entitled under the rules set out in Section 48 of the Act, which provides for distribution among more remote relatives.",
+    "source": "The Indian Succession Act 1925",
+    "topic": "Intestate Succession"
+  },
+  {
+    "id": 97,
+    "question": "Under the Pakistan Penal Code, what does Section 84 deal with?",
+    "answer": "Section 84 deals with the act of a person of unsound mind — nothing is an offence which is done by a person who, at the time of doing it, is incapable of knowing the nature of the act or that it is wrong or contrary to law.",
+    "source": "Pakistan Penal Code",
+    "topic": "General Exceptions"
+  },
+  {
+    "id": 98,
+    "question": "Under the Constitution of Pakistan 1973, what does Article 39 deal with?",
+    "answer": "Article 39 deals with the participation of the people in the armed forces.",
+    "source": "The Constitution of the Islamic Republic of Pakistan 1973",
+    "topic": "Principles of Policy"
+  },
+  {
+    "id": 99,
+    "question": "Under the Letters of Administration and Succession Certificates Act 2020, what online facility is the Succession Facilitation Unit required to maintain?",
+    "answer": "The Succession Facilitation Unit must maintain an online portal providing an updated record of the Letters of Administration and Succession Certificates issued under the Act.",
+    "source": "The Letters of Administration and Succession Certificates Act 2020",
+    "topic": "Administration"
+  },
+  {
+    "id": 100,
+    "question": "Under the Protection Against Harassment of Women at the Workplace Act 2010, can the Inquiry Committee get the complainant or accused medically examined?",
+    "answer": "Yes, the Inquiry Committee has the power to get the complainant or the accused medically examined by an authorized doctor if necessary.",
+    "source": "The Protection Against Harassment of Women at the Workplace Act 2010",
+    "topic": "Inquiry Powers"
+  }
+]
