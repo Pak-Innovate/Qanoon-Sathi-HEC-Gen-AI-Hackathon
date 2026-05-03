@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Noto+Nastaliq+Urdu&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-law: "Cinzel", serif;
+  --font-urdu: "Noto Nastaliq Urdu", serif;
+}
+
+/* Base body styles */
+body {
+  background-color: #fdfbf7;
+  color: #2c2621;
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    "Noto Sans",
+    sans-serif;
+  margin: 0;
+  height: 100vh;
+}
+
+@keyframes colorGlow {
+  0%,
+  100% {
+    color: #2c2621;
+  }
+  50% {
+    color: #a68a56;
+  }
+}
+
+.animate-color-glow {
+  animation: colorGlow 4s ease-in-out infinite;
+}
+
+/* Custom Animation for the Gold Shine */
+@keyframes shine {
+  0% {
+    background-position: -200% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+@keyframes slideInUp {
+  from {
+    transform: translateY(40px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-in {
+  animation: slideInUp 0.8s ease-out forwards;
+}
+
+.animate-shine {
+  background: linear-gradient(90deg, #2c2621 0%, #a68a56 50%, #2c2621 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 3s linear infinite;
+}
+
+.font-law {
+  font-family: "Cinzel", serif;
+}
+
+.font-urdu {
+  font-family: "Noto Nastaliq Urdu", serif;
+}
+
+/* Professional Soft Glass Effects */
+.glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(166, 138, 86, 0.2);
+}
+
+.neon-border-violet {
+  border-left: 4px solid #a68a56;
+  box-shadow: -10px 0 20px -10px rgba(166, 138, 86, 0.3);
+}
+
+/* Markdown Rendering */
+.markdown-body h1 {
+  @apply text-4xl font-black mb-6 mt-8 text-[#2C2621];
+}
+.markdown-body h2 {
+  @apply text-3xl font-black mb-4 mt-6 text-[#2C2621];
+}
+.markdown-body h3 {
+  @apply text-2xl font-black mb-3 mt-4 text-[#2C2621];
+}
+.markdown-body p {
+  @apply mb-6 leading-[1.8];
+}
+.markdown-body strong {
+  @apply font-black text-[#2C2621];
+}
+.markdown-body ul {
+  @apply list-disc list-inside mb-6 space-y-2;
+}
+.markdown-body ol {
+  @apply list-decimal list-inside mb-6 space-y-2;
+}
+.markdown-body li {
+  @apply leading-relaxed;
+}
+.markdown-body blockquote {
+  @apply border-l-4 border-[#A68A56] pl-6 py-2 italic mb-6 bg-[#A68A56]/5 rounded-r-2xl;
+}
+.markdown-body code {
+  @apply px-2 py-1 bg-[#2C2621]/5 rounded font-mono text-sm;
+}
