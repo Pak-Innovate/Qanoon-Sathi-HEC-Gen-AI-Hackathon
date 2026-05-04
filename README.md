@@ -34,7 +34,7 @@ Many people:
 
 ---
 
-## 🛠️ What We Built — Three Layers, One Mission
+## 🛠️ What We Built — Four Layers, One Mission
 
 ### 📂 Layer 1 — The Legal Dataset
 Authentic Pakistani legal documents — including the **Constitution of Pakistan** and foundational legal principles from the **Federal Ministry of Law and Justice** — extracted, cleaned, and structured for AI readiness.
@@ -70,7 +70,7 @@ A clean, accessible web interface designed for everyday citizens, not lawyers. C
 | **Backend** | Node.js, TypeScript |
 | **Database** | Supabase |
 | **LLM** | LLaMA (via Groq — versatile and instant inference) |
-| **Embeddings** | Gemini Embeddings (`text-embedding-004`, 3072 dimensions) |
+| **Embeddings** | Gemini Embeddings (`text-embedding-001`, 3072 dimensions) |
 | **Frontend Deployment** | Vercel |
 | **Backend Deployment** | Render |
 | **API Testing** | Postman |
@@ -108,11 +108,11 @@ qanoon-sathi-ai/
 
 | Contributor | Role |
 |---|---|
-| **Kainat Suhail** | Principal Laws Dataset — Federal Ministry of Law & Justice Pakistan |
-| **Raqeeba Yasin** | Frontend Development & Organisation Setup |
-| **Tajammal Hussain** | AI Chatbot Architecture & Development |
-| **Abdul Wahab** | AI Chatbot Architecture & Development |
-| **Nimra Naeem** | API Integration & Backend Services |
+| **Kainat Suhail** | Team leadership. Principal Laws Dataset — Federal Ministry of Law & Justice, Pakistan |
+| **Raqeeba Yasin** | Frontend Development, Organisation Setup and backup setup |
+| **Tajammal Hussain** | AI Chatbot Architecture & Development. Final Web App deployment |
+| **Abdul Wahab** | AI Chatbot Architecture & Development. |
+| **Nimra Naeem** | API Integration & Model training |
 | **Mohammad Mohsin** | AI Chatbot Architecture & Development |
 
 ---
